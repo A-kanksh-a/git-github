@@ -14,3 +14,12 @@ to get details of a any configuration setting
 
 git status
 git 
+
+
+
+
+
+difference between git fetch and git pull
+
+git fetch pull all the changes from central repository to a new branch so you need to merge it later on
+git pull pull all the cahneg to the current working directory
