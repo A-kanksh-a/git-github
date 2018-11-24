@@ -1,0 +1,14 @@
+to create a account on git you need to configure username and email
+
+-> git config --global user.name "akanksha"
+-> git config --global user.email "akankshakumari393@gmail.com"
+
+to list all the configuration setting 
+
+-> git config --list
+-> git config user.name 
+
+to get details of a any configuration setting
+-> git help
+-> git help commit 
+
