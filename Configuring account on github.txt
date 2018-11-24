@@ -12,3 +12,5 @@ to get details of a any configuration setting
 -> git help
 -> git help commit 
 
+git status
+git 
